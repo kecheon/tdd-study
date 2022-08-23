@@ -1,2 +1,8 @@
 requirements:
   pip install pytest pytest-mock
+
+사용법:
+  clone하신 다음
+  $ cd tdd-study
+  $ pip install -r requirements.txt
+  $ pytest -s
